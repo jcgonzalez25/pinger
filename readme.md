@@ -60,7 +60,7 @@ Ping host on port 80
 
 Ping google on port 400
 
-    $synping google.com -p 400
+    $ping google.com -p 400
 
 Ping google 3 times with 10 second timeout
 
